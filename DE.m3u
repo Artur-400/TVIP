@@ -55,15 +55,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="",Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="h1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png" group-title="General",h1
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Hamburg1.de" tvg-logo="https://i.imgur.com/df3yY8W.png" group-title="",Hamburg 1
-https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Handystar.de" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="",Handystar
-https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-logo="https://i.imgur.com/7hutYJn.png" group-title="",Hauptstadt.TV
-https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+
 #EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://i.imgur.com/QDUIH2U.png" group-title="Lifestyle",Health TV
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelGerman.de" tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="Religious",Hope Channel German
