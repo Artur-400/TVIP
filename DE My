@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://tvepg.eu/de/germany/epg"
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png"group-title="TV", ZDF HD+
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV",3 SAT HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
