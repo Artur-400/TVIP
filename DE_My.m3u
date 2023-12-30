@@ -5,3 +5,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV", 3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV", ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="M",ServusTV HD
+https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
