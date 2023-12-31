@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tvepg.eu/de/germany/epg"
+#EXTM3U url-tvg="https://tvepg.eu/de/germany/epg/main"
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV", 3 SAT HD
