@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://tvepg.eu/de/germany/epg/main"
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://i.imgur.com/vvwRTKx.png" group-title="TV",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV", 3 SAT HD
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV", 3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV", ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="M",ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Fernsehen",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Fernsehen",One HD
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" tvg-logo="https://i.imgur.com/O98xsHP.png" group-title="Fernsehen",One HD
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="TV",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/r77LeEN.png" group-title="TV",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="TV",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="TV", ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Fernsehen",phoenix
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/9SENFgz.png" group-title="Fernsehen",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="TV",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
