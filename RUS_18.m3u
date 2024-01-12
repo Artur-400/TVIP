@@ -51,48 +51,33 @@ https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 http://94.232.104.237:8000/play/047/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://i.imgur.com/JYA4m7I.png" group-title="Кино и сериалы", Феникс+Кино 
 https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 tvg-id="backustv" tvg-logo="https://i.imgur.com/MImCjSj.png" group-title="Кино и сериалы", BackusTV HD 
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://i.imgur.com/L4fgZAS.png" group-title="Кино и сериалы", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://i.imgur.com/70L9ZhN.png" group-title="Кино и сериалы", Kino24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кино и сериалы", Видеокассета
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.imgur.com/FyTyiWm.png" group-title="Кино и сериалы", Кинопремьера HD
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://i.imgur.com/M5gF80s.png" group-title="Кино и сериалы", Viju+ Premiere HD
+http://94.232.104.237:8000/play/076/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://i.imgur.com/a30V7Rk.png" group-title="Кино и сериалы", Дом кино Премиум
+http://195.26.83.96:7022/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://i.imgur.com/a30V7Rk.png" group-title="Кино и сериалы", Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://i.imgur.com/fHlX5na.png" group-title="Кино и сериалы", Amedia Hit
+http://109.248.236.21:4433/udp/238.1.1.96:1234
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://i.imgur.com/EkNDhj8.png" group-title="Кино и сериалы", Amedia Premium HD 
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://i.imgur.com/3nfU6t6.png" group-title="Кино и сериалы", НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 tvg-id="kion-xit" tvg-logo="" group-title="Кино и сериалы", Kion Хит
+http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8 
 
 tvg-id="" tvg-logo=""
 
-#EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World [VLC]
-http://109.248.236.21:4433/udp/238.1.1.158:1234
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Kino24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Видеокассета
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Premiere HD
-http://94.232.104.237:8000/play/076/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Наше новое кино 
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Кинохит
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8 
-#EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
-https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум
-http://195.26.83.96:7022/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
-#EXTINF:-1 group-title="Кино и сериалы", Viju+ Megahit HD
-https://cdn01.poster-abh.ru/Viju-plus-MegahitHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
-http://109.248.236.21:4433/udp/238.1.1.96:1234
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD 
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit", НТВ-Хит HD 
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Премиальное HD 
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Kion Хит
-http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8 
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action
 http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 Action HD 
