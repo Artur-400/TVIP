@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-id="pervy" group-title="Общие", Первый канал HD 
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="Общие", Первый канал HD +4
+#EXTINF:-1 tvg-id="pervy" group-title="Общие", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 group-title="Общие", Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" group-title="Общие", Россия 1 HD
 http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Общие", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
