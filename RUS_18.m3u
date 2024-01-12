@@ -9,25 +9,23 @@ http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.imgur.com/79gz9il.png" group-title="Общие", РенТВ HD
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Общие", Домашний HD
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://i.imgur.com/r8JMZNv.png" group-title="Общие", Домашний HD
 https://dom-live-megafon2.mediavitrina.ru:443/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Общие", ТВ3 HD
+#EXTINF:-1 tvg-id="v3-ru" tvg-logo="https://i.imgur.com/aw3iPyO.png" group-title="Общие", ТВ3 HD
 http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Общие", ТВ3 Беларусь
-http://185.220.34.88:12000/play/tv3
-#EXTINF:-1 group-title="Общие", ТНВ Татарстан
+#EXTINF:-1 tvg-id="tnv" tvg-logo="https://i.imgur.com/KO9SC61.png" group-title="Общие", ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 group-title="Общие", ТНВ Планета
-http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общие", БСТ
+#EXTINF:-1 tvg-id="bst" tvg-logo="https://i.imgur.com/ll83AQ7.png" group-title="Общие", БСТ
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", .black 
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://i.imgur.com/ig0wV1Z.png" group-title="Кино и сериалы", .black 
 http://94.232.104.237:8000/play/106/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.imgur.com/J52qlCO.png" group-title="Кино и сериалы", Киномикс
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.imgur.com/J52qlCO.png" group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+
+tvg-id="" tvg-logo=""
+
 #EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
 http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
