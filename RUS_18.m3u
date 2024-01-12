@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/zU1LXlw.png" group-title="Общие", Первый канал HD 
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/zU1LXlw.png" group-title="Общие", Первый канал HD +4
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.imgur.com/zU1LXlw.png" tvg-shift="+4" group-title="Общие", Первый канал HD +4
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/kcITPPS.png" group-title="Общие", Россия 1 HD
 http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
@@ -23,44 +23,37 @@ http://94.232.104.237:8000/play/106/index.m3u8
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.imgur.com/J52qlCO.png" group-title="Кино и сериалы", Киномикс HD
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/T7MjYaX.png" group-title="Кино и сериалы", Viju TV1000 
+http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.imgur.com/v1uo8az.png" group-title="Кино и сериалы", Русский бестселлер
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://i.imgur.com/XRalZV2.png" group-title="Кино и сериалы", Fox  
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://i.imgur.com/XRalZV2.png" group-title="Кино и сериалы", Fox HD
+http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://i.imgur.com/XRalZV2.png" group-title="Кино и сериалы", Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+#EXTINF:-1 vg-id="foxlife" tvg-logo="https://i.imgur.com/XRalZV2.png" group-title="Кино и сериалы", Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 tvg-id="plan-b" tvg-logo="https://i.imgur.com/jjeZzt1.png" group-title="Кино и сериалы", Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 tvg-id="tvxxi" tvg-logo="https://i.imgur.com/1Nb1fu2.png" group-title="Кино и сериалы", TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://i.imgur.com/fNMWkaN.png" group-title="Кино и сериалы", Иллюзион+
+http://94.232.104.237:8000/play/049/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://i.imgur.com/yFfQP12.png" group-title="Кино и сериалы", Кино ТВ
+http://91.142.158.107:8092/play/28/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://i.imgur.com/yFfQP12.png" group-title="Кино и сериалы", Кино ТВ HD 
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="kinosat" tvg-logo="https://i.imgur.com/H0R2ogv.png" group-title="Кино и сериалы", Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.imgur.com/o8jYNSr.png" group-title="Кино и сериалы", Кинопоказ
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://i.imgur.com/JYA4m7I.png" group-title="Кино и сериалы", Феникс+Кино 
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 
 tvg-id="" tvg-logo=""
 
-#EXTINF:-1 group-title="Кино и сериалы", Viju TV1000 
-http://94.232.104.237:8000/play/039/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Русский бестселлер
-http://91.142.158.107:8092/play/26/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Fox  
-https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Fox HD
-http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Fox Life
-http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Fox Life HD
-http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино и сериалы", Filmbox [VLC]
-rtmp://93.189.60.202//1071
-#EXTINF:-1 group-title="Кино и сериалы", FilmBox Arthouse
-http://5.153.180.30:8000/play/a00m
-#EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы", Plan B HD
-http://31.148.6.4:10236/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", TV XXI
-https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
-http://94.232.104.237:8000/play/049/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ
-http://91.142.158.107:8092/play/28/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ +7
-http://live-1.otcnet.ru/kinosem/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кино ТВ HD 
-http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино и сериалы", Киносат
-https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-http://94.232.104.237:8000/play/047/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Феникс+Кино 
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Кино и сериалы", BackusTV HD 
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Кино и сериалы" tvg-id="start-world", Start World [VLC]
