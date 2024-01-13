@@ -6,15 +6,19 @@ https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/kcITPPS.png" group-title="Общие", Россия 1 HD
 http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/kcITPPS.png" group-title="Общие", Россия 1 HD
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/hMauFmQ.png" group-title="Общие", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.imgur.com/79gz9il.png" group-title="Общие", РенТВ HD
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://i.imgur.com/r8JMZNv.png" group-title="Общие", Домашний HD
 https://dom-live-megafon2.mediavitrina.ru:443/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epgx.site/p/dozhd.png" group-title="Общие", Дождь
+http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+
 #EXTINF:-1 tvg-id="v3-ru" tvg-logo="https://i.imgur.com/aw3iPyO.png" group-title="Общие", ТВ3 HD
 http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tnv" tvg-logo="https://i.imgur.com/KO9SC61.png" group-title="Общие", ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="bst" tvg-logo="https://i.imgur.com/ll83AQ7.png" group-title="Общие", БСТ
@@ -97,8 +101,17 @@ http://178.124.179.122:8088/karusel/index.m3u8
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://i.imgur.com/gJ1W7em.png" group-title="Детские", Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u
+
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/anxf3lf.png" group-title="Развлекательные", 2x2 HD
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Развлекательные", СТС
+http://45.159.74.13/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные", ТНТ
+http://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные", ТНТ
+http://bl.uma.media/live/317850/HLS/2703360_3/9613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Развлекательные", Пятница HD
+http://bl.uma.media/live/317843/HLS/4614144_3/9613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/DuXiZFf.png" group-title="Развлекательные", 360 HD 
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://epgx.site/p/tochka-otryva.png" group-title="Развлекательные", Точка Отрыва 
@@ -107,6 +120,8 @@ http://109.239.208.82:80/tochka/index.m3u8
 https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://epgx.site/p/nauka-20.png" group-title="Познавательные", Наука 2.0 HD
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные", Discovery Channel
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="hd-life" tvg-logo="https://epgx.site/p/hdl.png" group-title="Познавательные", HDL
 https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://epgx.site/p/national-geographic.png" group-title="Познавательные", National Geographic
@@ -127,8 +142,12 @@ https://strm.yandex.ru/kal/mir24/mir240.m3u8
 https://kinescope.io/8d7BiRwYs73eSFpTXq4ara/master.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epgx.site/p/setanta-sports-plus.png" group-title="Спорт", Setanta Sports 2 HD
 https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Спорт", Матч!
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://epgx.site/p/match-arena.png" group-title="Спорт", Матч! Арена HD 
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Спорт", Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://epgx.site/p/match-strana.png" group-title="Спорт", Матч! Страна
