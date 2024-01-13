@@ -5,6 +5,8 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/kcITPPS.png" group-title="Общие", Россия 1 HD
 http://farm-vgtrk.rfn.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.imgur.com/kcITPPS.png" group-title="Общие", Россия 1 HD
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/hMauFmQ.png" group-title="Общие", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://i.imgur.com/79gz9il.png" group-title="Общие", РенТВ HD
