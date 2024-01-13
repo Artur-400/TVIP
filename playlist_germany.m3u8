@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml"
 #EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
