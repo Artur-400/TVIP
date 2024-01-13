@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/web.magentatv.de.xml"
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml.gz, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml"
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://i.imgur.com/vvwRTKx.png" tvg-id="DasErste.de" group-title="Germany", Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="https://i.imgur.com/bWnY6ZR.png" tvg-id="ZDF.de" group-title="Germany",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" tvg-id="3sat.de" group-title="Germany",3sat Ⓖ
+#EXTINF:-1 tvg-name="3sat" tvg-logo="https://i.imgur.com/2a6SL54.png" tvg-id="3sat.de" group-title="Germany",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARD Alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha Ⓖ
+#EXTINF:-1 tvg-name="ARD Alpha" tvg-logo="https://i.imgur.com/FrFktV9.png" tvg-id="ARDalpha.de" group-title="Germany",ARD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
@@ -21,7 +21,7 @@ https://euronews.alteox.app/hls/de_stream.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="MTV Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png" tvg-id="MTVGermany.de" group-title="Germany",MTV Germany
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" tvg-id="NickGermany.de" group-title="Germany",Nick Ⓖ
+#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" tvg-id="NickGermany.de" group-title="Germany",Nick
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png" tvg-id="One.de" group-title="Germany",ONE Ⓖ
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
