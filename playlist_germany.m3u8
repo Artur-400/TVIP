@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml.gz, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml"
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://i.imgur.com/vvwRTKx.png" tvg-id="DasErste.de" group-title="Germany", Das Erste
-=======
+
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml"
 #EXTINF:-1 tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
->>>>>>> b3e4e33933fa9decefbf6cdc6bd197f968748328
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="https://i.imgur.com/bWnY6ZR.png" tvg-id="ZDF.de" group-title="Germany",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
