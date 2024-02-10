@@ -13,6 +13,9 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo" tvg-id="5046" tvg-logo="https://i.imgur.com/r77LeEN.png" group-title="TV",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
 
 #EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
