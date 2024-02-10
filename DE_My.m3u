@@ -17,34 +17,34 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 http://85.187.13.40:18000/ProSieben
 
-#EXTINF:-1 tvg-name="ProSieben", tvg-id="ProSieben" tvg-logo="" group-title="",ProSieben
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="ProSieben" tvg-logo="" group-title="",ProSieben
 https://c7.lbaa.pw:8081/lb/pro7/1/www.tvpinto.com/c10/1702457871/RFz2KubToTyzyWh44Jlitg/10695.m3u8
 
-#EXTINF:-1 tvg-name="ProSieben Maxx", tvg-id="ProSieben MAXX" tvg-logo="" group-title="", ProSieben Maxx
+#EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="ProSieben MAXX" tvg-logo="" group-title="", ProSieben Maxx
 https://helpfulpost.net/pro7maxx/index.m3u8?token=d95f621ac11f4037422e3ab6b9e89b3a28122c3a-8281dcd471eacf5020addf93ab035541-1707609417-1707598617
-#EXTINF:-1 tvg-name="RTL", tvg-id="" tvg-logo="" group-title="", RTL
+#EXTINF:-1 tvg-name="RTL" tvg-id="" tvg-logo="" group-title="", RTL
 https://c7.lbaa.pw:8081/lb/rtl/1/www.tvpinto.com/c10/1702457537/MPtsw6ikTvlVvaKFUoLqxQ/10691.m3u8
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", RTL 2
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", RTL 2
 https://c7.lbaa.pw:8081/lb/rtl2/1/www.tvpinto.com/c10/1702457649/s6rKkfTZdNU2vnaUDQjtqg/10692.m3u8
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", VOX
+#EXTINF:-1 tvg-name="VOX" tvg-id="VOX" tvg-logo="" group-title="", VOX
 https://c7.lbaa.pw:8081/lb/vox/1/www.tvpinto.com/c10/1702457670/vW7OkWIopN0a5YdDT4a_hw/10690.m3u8
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", RTL Nitro
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", RTL Nitro
 https://helpfulpost.net/rtlnitro/tracks-v1a1/mono.m3u8?token=40560d79b3a348db2cc21c3123ce826d772531c7-211327ffa3daf37ad2aa6592f8b17d5b-1707608444-1707597644
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Super RTL
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Super RTL
 https://helpfulpost.net/superrtl/tracks-v1a1/mono.m3u8?token=c599c9a1f56802cb06e96098bd8d1b87477a09a8-a406c0ebcd623f274e67d5b62566cdf6-1707608596-1707597796
 
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Sixx
+#EXTINF:-1 tvg-name="Sixx" tvg-id="Sixx" tvg-logo="" group-title="", Sixx
 https://c7.lbaa.pw:8081/lb/sixx/1/www.tvpinto.com/c10/1702457924/OaLX7GOtsvW3FCqzRThdLg/11716.m3u8
 
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Dmax
+#EXTINF:-1 tvg-name="Dmax" tvg-id="Dmax" tvg-logo="" group-title="", Dmax
 https://helpfulpost.net/dmax/tracks-v1a1/mono.m3u8?token=901aefd3c1fe69dfeaf3acfbb5df9f9f8a6bc3c0-9874beab7fde9c7fd6c84f54a11f902a-1707608772-1707597972
 
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Comedy Central
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Comedy Central
 https://helpfulpost.net/comedy/index.m3u8?token=1059694e4d5f73df37d9944bdc69bf4f7ec372c5-adfeb547787e355a19a9b4261b6a990b-1707609082-1707598282
 
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Sat 1
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Sat 1
 https://c7.lbaa.pw:8081/lb/sat1/1/www.tvpinto.com/c10/1702457447/chhfLlkJTbW8oE_ESYzvYQ/10699.m3u8
-#EXTINF:-1 tvg-name="", tvg-id="" tvg-logo="" group-title="", Sat1 Gold
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="", Sat1 Gold
 https://c7.lbaa.pw:8081/lb/sgold/1/www.tvpinto.com/c10/1702458002/4j3QgWYyU5VaL6rp-fk4Ug/6145.m3u8
 
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
