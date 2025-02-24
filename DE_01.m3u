@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://xmltv.info/de/epg.xml"
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="DE: Das Erste" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV",ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="TV",ZDF HD
