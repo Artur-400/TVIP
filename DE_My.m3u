@@ -1,32 +1,31 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml"
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="76674" tvg-logo="https://i.imgur.com/vvwRTKx.png" group-title="TV",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
+#EXTINF:-1 tvg-name="3sat" tvg-id="76664" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-name="ARTE" tvg-id="76641" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-name="alpha" tvg-id="5044" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",Alpha HD
+#EXTINF:-1 tvg-name="alpha" tvg-id="76617" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",Alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ONE" tvg-id="5027" tvg-logo="https://i.imgur.com/O98xsHP.png" group-title="Fernsehen",One HD
+#EXTINF:-1 tvg-name="ONE" tvg-id="76738" tvg-logo="https://i.imgur.com/O98xsHP.png" group-title="Fernsehen",One HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-
 #EXTINF:-1 tvg-name="ZDF" tvg-id="76627" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="TV",ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="5046" tvg-logo="https://i.imgur.com/r77LeEN.png" group-title="TV",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="76739" tvg-logo="https://i.imgur.com/r77LeEN.png" group-title="TV",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="76718" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ProSieben" tvg-id="ProSieben" tvg-logo="" group-title="",ProSieben
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="76702" tvg-logo="" group-title="",ProSieben
 https://s6.hopslan.com/pro7x3/index.m3u8?token=bea725a13009180714b500c13816e2f3df4fb68d-a9aaa1f5b31abce9552cd7c8ed389a40-1740435598-1740424798
-#EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="ProSieben MAXX" tvg-logo="" group-title="",ProSieben Maxx
+#EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="76702" tvg-logo="" group-title="",ProSieben Maxx
 https://s6.hopslan.com/pro7maxx1/index.m3u8?token=621421b4c8ada6caef40cdcd137880639731cf60-af089caf6ef1c8fb1af68ca69a165cbb-1740435719-1740424919
-#EXTINF:-1 tvg-name="RTL" tvg-id="" tvg-logo="" group-title="",RTL HD
+#EXTINF:-1 tvg-name="RTL" tvg-id="76673" tvg-logo="" group-title="",RTL HD
 https://s6.hopslan.com/rtlz1/index.m3u8?token=daf17e4c0de3d7c3a72afe04939116daf70b03ce-ab84f86daf2520ae71b4274c8b7987d0-1740432436-1740421636
 
-#EXTINF:-1 tvg-name="RTL 2" tvg-id="RTL 2" tvg-logo="" group-title="",RTL 2
+#EXTINF:-1 tvg-name="RTL 2" tvg-id="76755" tvg-logo="" group-title="",RTL 2
 https://s6.hopslan.com/rtl2x1/index.m3u8?token=064bc8d549bb2069671383feb0e3260cf8e18928-65aa3d5938f7dc181f3df88fc9d9d93c-1740432700-1740421900
 #EXTINF:-1 tvg-name="VOX" tvg-id="VOX" tvg-logo="" group-title="",VOX
 https://s6.hopslan.com/voxx1/index.m3u8?token=4b9d8972f417fda57a5fbf7d97b7185d5d3a54f2-976a2dbc6c5e717eb83bcb7afe0b3c09-1740432763-1740421963
@@ -44,9 +43,9 @@ https://helpfulpost.net/dmax/tracks-v1a1/mono.m3u8?token=901aefd3c1fe69dfeaf3acf
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Comedy Central
 https://helpfulpost.net/comedy/index.m3u8?token=1059694e4d5f73df37d9944bdc69bf4f7ec372c5-adfeb547787e355a19a9b4261b6a990b-1707609082-1707598282
 
-#EXTINF:-1 tvg-name="Sat 1" tvg-id="Sat 1" tvg-logo="" group-title="", Sat 1
+#EXTINF:-1 tvg-name="Sat 1" tvg-id="Sat 1" tvg-logo="" group-title="",Sat 1
 https://c7.lbaa.pw:8081/lb/sat1/1/www.tvpinto.com/c10/1702457447/chhfLlkJTbW8oE_ESYzvYQ/10699.m3u8
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="Sat1 Gold" tvg-logo="" group-title="", Sat1 Gold
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="Sat1 Gold" tvg-logo="" group-title="",Sat1 Gold
 https://c7.lbaa.pw:8081/lb/sgold/1/www.tvpinto.com/c10/1702458002/4j3QgWYyU5VaL6rp-fk4Ug/6145.m3u8
 
 
