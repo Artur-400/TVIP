@@ -4,12 +4,12 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARTE" tvg-id="76641" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV",ARTE HD
+#EXTINF:-1 tvg-name="ARTE" tvg-id="arte" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-name="alpha" tvg-id="76617" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",Alpha HD
+#EXTINF:-1 tvg-name="alpha" tvg-id="alpha" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",Alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ONE" tvg-id="76738" tvg-logo="https://i.imgur.com/O98xsHP.png" group-title="Fernsehen",One HD
+#EXTINF:-1 tvg-name="ONE" tvg-id="one" tvg-logo="https://i.imgur.com/O98xsHP.png" group-title="Fernsehen",One HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-id="76627" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="TV",ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
