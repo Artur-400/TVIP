@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml"
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="76674" tvg-logo="https://i.imgur.com/vvwRTKx.png" group-title="TV",Das Erste HD
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Artur-400/TVIP/refs/heads/main/ard_epg.xml"
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="daserste" tvg-logo="https://i.imgur.com/vvwRTKx.png" group-title="TV",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="76664" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-name="ARTE" tvg-id="76641" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV",ARTE HD
