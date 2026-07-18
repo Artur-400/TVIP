@@ -3,7 +3,6 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-
 #EXTINF:-1 tvg-name="ARTE" tvg-id="arte" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
@@ -18,8 +17,8 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="76718" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ProSieben" tvg-id="76702" tvg-logo="" group-title="",ProSieben
-https://s6.hopslan.com/pro7x3/index.m3u8?token=bea725a13009180714b500c13816e2f3df4fb68d-a9aaa1f5b31abce9552cd7c8ed389a40-1740435598-1740424798
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben" tvg-logo="" group-title="",ProSieben
+https://s6.hopslan.com/pro7z/index.m3u8
 #EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="76702" tvg-logo="" group-title="",ProSieben Maxx
 https://s6.hopslan.com/pro7maxx1/index.m3u8?token=621421b4c8ada6caef40cdcd137880639731cf60-af089caf6ef1c8fb1af68ca69a165cbb-1740435719-1740424919
 #EXTINF:-1 tvg-name="RTL" tvg-id="76673" tvg-logo="" group-title="",RTL HD
