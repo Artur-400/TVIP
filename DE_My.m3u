@@ -5,48 +5,42 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="arte-hd" tvg-logo="" group-title="TV", ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-
-#EXTINF:-1 tvg-name="alpha" tvg-id="alpha" tvg-logo="https://i.imgur.com/vo9I5FB.png" group-title="Fernsehen",Alpha HD
+#EXTINF:-1 tvg-name="alpha" tvg-id="alpha" tvg-logo="" group-title="Fernsehen",Alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ONE" tvg-id="one" tvg-logo="" group-title="Fernsehen",One HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-id="zdf" tvg-logo="" group-title="TV",ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="76739" tvg-logo="https://i.imgur.com/r77LeEN.png" group-title="TV",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="zdf-neo" tvg-logo="" group-title="TV",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="76718" tvg-logo="https://i.imgur.com/H0Fd6cV.png" group-title="TV",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="zdf-info" tvg-logo="" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben" tvg-logo="" group-title="", ProSieben
 https://s6.hopslan.com/pro7z/index.m3u8
 #EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="prosieben-maxx" tvg-logo="" group-title="",ProSieben Maxx
 https://s6.hopslan.com/pro7maxxX/index.m3u8
-
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl" tvg-logo="" group-title="",RTL HD
 https://s6.hopslan.com/rtlt/index.m3u8
 #EXTINF:-1 tvg-name="RTL 2" tvg-id="rtl2" tvg-logo="" group-title="", RTL 2
 https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 tvg-name="VOX" tvg-id="vox" tvg-logo="" group-title="", VOX
 https://s6.hopslan.com/voxz/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",RTL Nitro
-https://helpfulpost.net/rtlnitro/tracks-v1a1/mono.m3u8?token=40560d79b3a348db2cc21c3123ce826d772531c7-211327ffa3daf37ad2aa6592f8b17d5b-1707608444-1707597644
+#EXTINF:-1 tvg-name="" tvg-id="rtl-nitro-de" tvg-logo="" group-title="",RTL Nitro
+https://s6.hopslan.com/nitro1/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Super RTL
 https://helpfulpost.net/superrtl/tracks-v1a1/mono.m3u8?token=c599c9a1f56802cb06e96098bd8d1b87477a09a8-a406c0ebcd623f274e67d5b62566cdf6-1707608596-1707597796
-
-#EXTINF:-1 tvg-name="Sixx" tvg-id="Sixx" tvg-logo="" group-title="",Sixx
-https://c7.lbaa.pw:8081/lb/sixx/1/www.tvpinto.com/c10/1702457924/OaLX7GOtsvW3FCqzRThdLg/11716.m3u8
-
-#EXTINF:-1 tvg-name="Dmax" tvg-id="Dmax" tvg-logo="" group-title="",Dmax
-https://helpfulpost.net/dmax/tracks-v1a1/mono.m3u8?token=901aefd3c1fe69dfeaf3acfbb5df9f9f8a6bc3c0-9874beab7fde9c7fd6c84f54a11f902a-1707608772-1707597972
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",Comedy Central
-https://helpfulpost.net/comedy/index.m3u8?token=1059694e4d5f73df37d9944bdc69bf4f7ec372c5-adfeb547787e355a19a9b4261b6a990b-1707609082-1707598282
-
-#EXTINF:-1 tvg-name="Sat 1" tvg-id="Sat 1" tvg-logo="" group-title="",Sat 1
-https://c7.lbaa.pw:8081/lb/sat1/1/www.tvpinto.com/c10/1702457447/chhfLlkJTbW8oE_ESYzvYQ/10699.m3u8
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="Sat1 Gold" tvg-logo="" group-title="",Sat1 Gold
-https://c7.lbaa.pw:8081/lb/sgold/1/www.tvpinto.com/c10/1702458002/4j3QgWYyU5VaL6rp-fk4Ug/6145.m3u8
-
-
+#EXTINF:-1 tvg-name="Sixx" tvg-id="sixx" tvg-logo="" group-title="",Sixx
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-name="Dmax" tvg-id="dmax" tvg-logo="" group-title="",Dmax
+https://s6.hopslan.com/dmaxX/index.m3u8
+#EXTINF:-1 tvg-name="N-TV" tvg-id="n-tv-hd-de" tvg-logo="" group-title="",N-TV
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="comedy-central-pl" tvg-logo="" group-title="",Comedy Central
+https://s6.hopslan.com/vivaX/index.m3u8
+#EXTINF:-1 tvg-name="Sat 1" tvg-id="sat1 tvg-logo="" group-title="",Sat 1
+https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="sat1-gold-de" tvg-logo="" group-title="",Sat1 Gold
+https://s6.hopslan.com/goldX/index.m3u8
 
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",N24 Doku
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -58,6 +52,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a3
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="TV",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="TV",WELT
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" tvg-logo="https://i.imgur.com/sCXwx7I.png" group-title="TV",euronews deutsch
@@ -96,3 +91,13 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="TV",rbb Brandenburg HD
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="Kabel 1" tvg-id="kabel-1" group-title="TV",Kabel 1
+https://s6.hopslan.com/kabel1z/index.m3u8
+#EXTINF:-1 tvg-name="Kabel 1 Doku" tvg-id="kabel-1-doku" group-title="TV",Kabel 1 Doku
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="",Kabel 1 Doku
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5" group-title="",Tele 5
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-id="disney-c" group-title="",Disney
+https://s6.hopslan.com/disneyX/index.m3u8
