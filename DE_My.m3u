@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Artur-400/TVIP/refs/heads/main/ard_epg.xml"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG_NOARCH"
+
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="daserste" tvg-logo="https://i.imgur.com/vvwRTKx.png" group-title="TV",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/2a6SL54.png" group-title="TV",3 SAT HD
