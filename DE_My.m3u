@@ -41,10 +41,6 @@ https://s6.hopslan.com/vivaX/index.m3u8
 https://s6.hopslan.com/sat1z/index.m3u8
 #EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="sat1-gold-de" tvg-logo="" group-title="",Sat1 Gold
 https://s6.hopslan.com/goldX/index.m3u8
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",N24 Doku
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVHistoryGermany.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" group-title="Documentary",Pluto TV History Germany
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
 
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/9SENFgz.png" group-title="Fernsehen",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
@@ -52,42 +48,50 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="TV",WELT
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" tvg-logo="https://i.imgur.com/sCXwx7I.png" group-title="TV",euronews deutsch
-https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" tvg-logo="" group-title="Fernsehen",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://i.imgur.com/uyTcJw2.png" group-title="MULT",KiKA
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="" group-title="MULT",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" tvg-logo="https://i.imgur.com/XseRTgZ.png" group-title="MULT",Nickelodeon
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/kmbl1CX.png" group-title="MUSIK",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/ccEG2W5.png" group-title="MUSIK",Deluxe Lounge HD
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" tvg-logo="https://i.imgur.com/31VihPF.png" group-title="W18+",VISIT-X.tv
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" tvg-logo="https://i.imgur.com/gFFCe2R.png" group-title="TV",WDR HD
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" tvg-logo="https://i.imgur.com/OIXrQPA.png" group-title="TV",SWR Baden-Württemberg HD
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" tvg-logo="https://i.imgur.com/OIXrQPA.png" group-title="TV",SWR Rheinland-Pfalz HD
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" tvg-logo="https://i.imgur.com/JiB0xoE.png" group-title="TV",NDR Niedersachsen HD
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="https://i.imgur.com/YpoWVe4.png" group-title="TV",BR Fernsehen Nord HD
+
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="wdr" tvg-logo="" group-title="TV",SR Fernsehen HD
+https://sr-live.ard-mcdn.de/sr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="wdr" tvg-logo="" group-title="TV",WDR HD
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" tvg-logo="" group-title="TV",SWR Baden-Württemberg HD
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" tvg-logo="" group-title="TV",SWR Rheinland-Pfalz HD
+https://mcdn.swr.de/swr/swrrpd/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="" tvg-logo="" group-title="TV",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="" tvg-logo="" group-title="TV",NDR Hamburg HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="" group-title="TV",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" tvg-logo="https://i.imgur.com/YpoWVe4.png" group-title="TV",BR Fernsehen Süd HD
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="https://i.imgur.com/BNjlyFo.png" group-title="TV",MDR Sachsen HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" tvg-logo="" group-title="TV",BR Fernsehen Süd HD
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="" tvg-logo="" group-title="TV",MDR Sachsen HD
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="" tvg-logo="" group-title="TV",MDR Sachsen-Anhalt HD
+https://mdr-live.ard-mcdn.de/mdr/sa/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR Thüringen HD" tvg-id="" tvg-logo="" group-title="TV",MDR Thüringen HD
+https://mdr-live.ard-mcdn.de/mdr/th/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="Buten un Binnen" tvg-id="" tvg-logo="" group-title="TV",Buten un Binnen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="TV",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 #EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="TV",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="TV",rbb Brandenburg HD
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
 #EXTINF:-1 tvg-name="Kabel 1" tvg-id="kabel-1" group-title="TV",Kabel 1
 https://s6.hopslan.com/kabel1z/index.m3u8
 #EXTINF:-1 tvg-name="Kabel 1 Doku" tvg-id="kabel-1-doku" group-title="TV",Kabel 1 Doku
