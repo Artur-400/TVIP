@@ -41,18 +41,15 @@ https://s6.hopslan.com/vivaX/index.m3u8
 https://s6.hopslan.com/sat1z/index.m3u8
 #EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="sat1-gold-de" tvg-logo="" group-title="",Sat1 Gold
 https://s6.hopslan.com/goldX/index.m3u8
-
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",N24 Doku
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVHistoryGermany.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" group-title="Documentary",Pluto TV History Germany
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
 
-
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/9SENFgz.png" group-title="Fernsehen",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="TV",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="TV",WELT
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" tvg-logo="https://i.imgur.com/sCXwx7I.png" group-title="TV",euronews deutsch
@@ -95,7 +92,7 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 https://s6.hopslan.com/kabel1z/index.m3u8
 #EXTINF:-1 tvg-name="Kabel 1 Doku" tvg-id="kabel-1-doku" group-title="TV",Kabel 1 Doku
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="",Kabel 1 Doku
+#EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="",TLC
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5" group-title="",Tele 5
 https://s6.hopslan.com/tele5X/index.m3u8
