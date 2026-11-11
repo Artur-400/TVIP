@@ -16,7 +16,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="zdf-info" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben" tvg-logo="" group-title="", ProSieben
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben" tvg-logo="https://img.tvspielfilm.de/logo/sender/PRO7.png" group-title="", ProSieben
 https://s6.hopslan.com/pro7z/index.m3u8
 #EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="prosieben-maxx" tvg-logo="" group-title="",ProSieben Maxx
 https://s6.hopslan.com/pro7maxxX/index.m3u8
@@ -24,7 +24,7 @@ https://s6.hopslan.com/pro7maxxX/index.m3u8
 https://s6.hopslan.com/rtlt/index.m3u8
 #EXTINF:-1 tvg-name="RTL 2" tvg-id="rtl2" tvg-logo="" group-title="", RTL 2
 https://s6.hopslan.com/rtl2q/index.m3u8
-#EXTINF:-1 tvg-name="VOX" tvg-id="vox" tvg-logo="" group-title="", VOX
+#EXTINF:-1 tvg-name="VOX" tvg-id="vox" tvg-logo="https://img.tvspielfilm.de/logo/sender/VOX.png" group-title="", VOX
 https://s6.hopslan.com/voxz/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="rtl-nitro-de" tvg-logo="" group-title="",RTL Nitro
 https://s6.hopslan.com/nitro1/index.m3u8
@@ -93,8 +93,9 @@ https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="TV",rbb Brandenburg HD
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 
-#EXTINF:-1 tvg-name="Kabel 1" tvg-id="kabel-1" group-title="TV",Kabel 1
+#EXTINF:-1 tvg-name="Kabel 1" tvg-id="kabel-1" tvg-logo="https://img.tvspielfilm.de/logo/sender/K1.png" group-title="TV",Kabel 1
 https://s6.hopslan.com/kabel1z/index.m3u8
+
 #EXTINF:-1 tvg-name="Kabel 1 Doku" tvg-id="kabel-1-doku" group-title="TV",Kabel 1 Doku
 https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="tlc" group-title="",TLC
