@@ -3,17 +3,18 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
 #EXTINF:-1 tvg-name="ARTE" tvg-id="arte-hd" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV", ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="alpha" tvg-id="alpha" tvg-logo="" group-title="Fernsehen",Alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ONE" tvg-id="one" tvg-logo="" group-title="Fernsehen",One HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf" tvg-logo="" group-title="TV",ZDF HD+
+#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="TV",ZDF HD+
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="zdf-neo" tvg-logo="" group-title="TV",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="zdf-neo" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="TV",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="zdf-info" tvg-logo="" group-title="TV",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="zdf-info" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="TV",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben" tvg-logo="" group-title="", ProSieben
 https://s6.hopslan.com/pro7z/index.m3u8
