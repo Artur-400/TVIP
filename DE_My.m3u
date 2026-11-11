@@ -3,7 +3,7 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE" tvg-id="arte-hd" tvg-logo="" group-title="TV", ARTE HD
+#EXTINF:-1 tvg-name="ARTE" tvg-id="arte-hd" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="TV", ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="alpha" tvg-id="alpha" tvg-logo="" group-title="Fernsehen",Alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
@@ -50,7 +50,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="" group-title="MULT",KiKA
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="MULT",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="wdr" tvg-logo="" group-title="TV",SR Fernsehen HD
@@ -69,9 +69,9 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="" tvg-logo="" group-title="TV",NDR Hamburg HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="" group-title="TV",BR Fernsehen Nord HD
+#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="TV",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" tvg-logo="" group-title="TV",BR Fernsehen Süd HD
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" tvg-logo="https://i.imgur.com/wfqDL6Z.png" group-title="TV",BR Fernsehen Süd HD
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="" tvg-logo="" group-title="TV",MDR Sachsen HD
@@ -102,3 +102,15 @@ https://s6.hopslan.com/tlcX/index.m3u8
 https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-name="Disney" tvg-id="disney-c" group-title="",Disney
 https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="",Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="",Niederbayern TV Landshut
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="",Niederbayern TV Passau
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
