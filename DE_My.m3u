@@ -36,11 +36,11 @@ https://s6.hopslan.com/sixX/index.m3u8
 https://s6.hopslan.com/dmaxX/index.m3u8
 #EXTINF:-1 tvg-name="N-TV" tvg-id="n-tv-hd-de" tvg-logo="https://img.tvspielfilm.de/logo/sender/NTV.png" group-title="",N-TV
 https://s6.hopslan.com/ntvX/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="comedy-central-pl" tvg-logo="" group-title="",Comedy Central
+#EXTINF:-1 tvg-name="" tvg-id="comedy-central-pl" tvg-logo="https://img.tvspielfilm.de/logo/sender/CC.png" group-title="",Comedy Central
 https://s6.hopslan.com/vivaX/index.m3u8
 #EXTINF:-1 tvg-name="Sat 1" tvg-id="sat1 tvg-logo="https://img.tvspielfilm.de/logo/sender/SAT1.png" group-title="",Sat 1
 https://s6.hopslan.com/sat1z/index.m3u8
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="sat1-gold-de" tvg-logo="" group-title="",Sat1 Gold
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-id="sat1-gold-de" tvg-logo="https://img.tvspielfilm.de/logo/sender/SAT1G.png" group-title="",Sat1 Gold
 https://s6.hopslan.com/goldX/index.m3u8
 
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://i.imgur.com/9SENFgz.png" group-title="Fernsehen",phoenix
