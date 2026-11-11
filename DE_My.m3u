@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=" https://iptvx.one/epg/epg_noarch.xml.gz"
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="das-erste" tvg-logo="" group-title="TV",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="das-erste" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="TV",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="" group-title="TV",3 SAT HD
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="TV",3 SAT HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="arte-hd" tvg-logo="" group-title="TV", ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
